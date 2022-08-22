@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+
+.main{
+    margin: 20px auto;
+    max-width: 1100 px;
+    background-color: white;
+}
